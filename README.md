@@ -13,6 +13,6 @@ Abra a linha de comandos e use o comando para installar o nanoff
 
 Conecte a ESP32 ao USE e confira a porta COM dela. Execute o comando na porta COM correspondente.
 
-`nanoff --target ESP32_WROOM_32 --serialport COM3 --update --baud 115200`
+`nanoff --target ESP32 --serialport COM3 --update --baud 115200`
 
 
